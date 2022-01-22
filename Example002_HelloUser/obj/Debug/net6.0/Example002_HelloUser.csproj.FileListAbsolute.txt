@@ -1,0 +1,15 @@
+C:\Лекции\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+C:\Лекции\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+C:\Лекции\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+C:\Лекции\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+C:\Лекции\Examples\Example002_HelloUser\bin\Debug\net6.0\ref\Example002_HelloUser.dll
+C:\Лекции\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+C:\Лекции\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\Лекции\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Лекции\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Лекции\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Лекции\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Лекции\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+C:\Лекции\Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
+C:\Лекции\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+C:\Лекции\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
